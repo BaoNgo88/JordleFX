@@ -1,5 +1,5 @@
 # JordleFX
-The New York Times Wordle game written in Java using JavaFX platform. 
+The New York Times Wordle game written in Java using JavaFX platform. <br />
 Author: Ton Quoc Bao Ngo
 Started in June 2022
 Credits: 
