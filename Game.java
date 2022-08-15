@@ -1,7 +1,7 @@
 /**
  * @author Ton Quoc Bao Ngo
  * @version 2
- * Created in June 2022
+ * Started in June 2022
  * 
  * Credits: 
  * Music by ZakharValaha from Pixabay
